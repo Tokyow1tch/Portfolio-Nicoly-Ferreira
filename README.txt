@@ -1,16 +1,22 @@
-PORTFÓLIO — NICOLY FERREIRA
+# Portfólio — Nicoly Ferreira
 
-Arquivos:
-- index.html
-- assets/nicoly.jpg
-- Curriculo-Nicoly-Ferreira.pdf
+Meu portfólio pessoal, criado para reunir minha trajetória, habilidades e projetos desenvolvidos durante meus estudos em tecnologia.
 
-O projeto foi personalizado com os dados fornecidos pela Nicoly e com o projeto público
-Gestor de Filmes (Python + JSON) encontrado no GitHub.
+Atualmente curso **Análise e Desenvolvimento de Sistemas** e estou em processo de transição de carreira, buscando fortalecer meus conhecimentos por meio da faculdade, estudos independentes e projetos práticos.
 
-Para publicar:
-1. Suba estes arquivos para um repositório no GitHub.
-2. Ative GitHub Pages em Settings > Pages.
-3. Ou publique a pasta em Vercel/Netlify.
+## Tecnologias e conhecimentos
 
-Para adicionar projetos, edite a seção "Projetos" no index.html.
+* Python
+* SQL
+* Banco de Dados
+* HTML e CSS
+* Git e GitHub
+* Análise de Dados
+* Lógica de Programação
+
+## Projetos
+
+O portfólio será atualizado conforme avanço nos estudos e desenvolvo novos projetos.
+
+**Portfólio:**
+https://tokyow1tch.github.io/Portfolio-Nicoly-Ferreira/
